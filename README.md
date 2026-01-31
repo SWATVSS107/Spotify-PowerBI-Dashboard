@@ -79,9 +79,7 @@ This design ensures quick insights, clarity, and decision-focused storytelling.
 ## 📷 Dashboard Screenshots
 
 ### Full Dashboard View
-[![Uploading Screenshot 2026-01-31 140334.png…]()](https://github.com/SWATVSS107/Spotify-PowerBI-Dashboard/blob/main/Screenshot%202026-01-31%20140334.png?raw=true)
-
-
+https://github.com/SWATVSS107/Spotify-PowerBI-Dashboard/blob/3858c6e04e75bfbffa17943a4b030a62b3db492d/Screenshot%202026-01-31%20140334.png
 ---
 
 ## 🚀 Business Impact
