@@ -79,10 +79,8 @@ This design ensures quick insights, clarity, and decision-focused storytelling.
 ## 📷 Dashboard Screenshots
 
 ### Full Dashboard View
-*(Paste screenshot below)*
+![Uploading Screenshot 2026-01-31 140334.png…]()
 
-![Dashboard Overview](<img width="1485" height="742" alt="Screenshot 2026-01-31 140334" src="https://github.com/user-attachments/assets/a504a826-4dad-41d8-9090-4c954e3a6f29" />
-)
 
 ---
 
