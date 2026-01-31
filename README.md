@@ -81,21 +81,8 @@ This design ensures quick insights, clarity, and decision-focused storytelling.
 ### Full Dashboard View
 *(Paste screenshot below)*
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
----
-
-### KPI & Trend Section
-*(Paste screenshot below)*
-
-![KPI and Trends](screenshots/kpi_trends.png)
-
----
-
-### Audio Features & Hit Analysis
-*(Paste screenshot below)*
-
-![Audio Features Analysis](screenshots/audio_hit_analysis.png)
+![Dashboard Overview](<img width="1485" height="742" alt="Screenshot 2026-01-31 140334" src="https://github.com/user-attachments/assets/a504a826-4dad-41d8-9090-4c954e3a6f29" />
+)
 
 ---
 
